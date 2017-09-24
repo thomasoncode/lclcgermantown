@@ -1,7 +1,6 @@
 ---
 title: "Blankets"
 date: 2017-09-23T17:23:25-05:00
-draft: true
 contact: "Pastor Spies"
 ---
 

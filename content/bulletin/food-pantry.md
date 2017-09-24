@@ -1,7 +1,6 @@
 ---
 title: "Food Pantry"
 date: 2017-09-23T16:40:14-05:00
-draft: true
 contact: "Linda Bonnell"
 ---
 

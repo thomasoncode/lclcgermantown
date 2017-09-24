@@ -1,7 +1,6 @@
 ---
 title: "Chili Bake Sale"
 date: 2017-09-23T16:39:05-05:00
-draft: true
 contact: "Shelley Erdman"
 ---
 
