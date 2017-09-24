@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "​Lutheran Church of the Living Christ"
+theme = "ananke"
+
+[params]
+    facebook = "https://www.facebook.com/Lutheran-Church-of-the-Living-Christ-182581355189476/"
+    youtube = "https://www.youtube.com/channel/UCuI3yV3ri6xtn4Rsn5KLCvw"
